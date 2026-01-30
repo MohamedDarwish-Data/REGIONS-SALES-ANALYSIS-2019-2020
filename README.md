@@ -1,5 +1,7 @@
 
 Sales Dashboard Analysis (2019–2020) | Excel Data Analytics Project
+
+
 🔍 Project Overview
 
 This repository contains my first data analytics dashboard project, created during my internship with DEPI.

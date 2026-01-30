@@ -1,10 +1,12 @@
 
+
+
 Sales Dashboard Analysis (2019–2020) | Excel Data Analytics Project
 
 
 🔍 Project Overview
 
-This repository contains my first data analytics dashboard project, created during my internship with DEPI.
+My first data analytics dashboard project, created during my internship with DEPI.
 The project analyzes Fruit & Vegetables product sales data (2019–2020) across multiple countries using Microsoft Excel.
 
 The goal of this project is to demonstrate my ability to:

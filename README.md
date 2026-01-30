@@ -1,5 +1,4 @@
-
-
+![Uploading image.png…]()
 
 Sales Dashboard Analysis (2019–2020) | Excel Data Analytics Project
 

@@ -142,3 +142,5 @@ Automate data updates using Power Query
 Migrate dashboard to Power BI
 
 Add profitability and trend forecasting analysis
+![WhatsApp Image 2026-01-30 at 12 26 18 AM](https://github.com/user-attachments/assets/ef4df07f-9d6f-4170-ab5a-dea46c05535d)
+

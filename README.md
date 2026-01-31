@@ -1,4 +1,4 @@
-<img width="1359" height="656" alt="image" src="https://github.com/user-attachments/assets/0bf16e40-b0a4-44b1-9ef7-181dcc06eb34" />
+![WhatsApp Image 2026-01-30 at 12 26 18 AM](https://github.com/user-attachments/assets/ef4df07f-9d6f-4170-ab5a-dea46c05535d)
 
 
 Sales Dashboard Analysis (2019–2020) | Excel Data Analytics Project
@@ -142,5 +142,3 @@ Automate data updates using Power Query
 Migrate dashboard to Power BI
 
 Add profitability and trend forecasting analysis
-![WhatsApp Image 2026-01-30 at 12 26 18 AM](https://github.com/user-attachments/assets/ef4df07f-9d6f-4170-ab5a-dea46c05535d)
-

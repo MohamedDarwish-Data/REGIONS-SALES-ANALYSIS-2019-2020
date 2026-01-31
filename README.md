@@ -1,4 +1,5 @@
-<img width="1112" height="582" alt="Column Chart" src="https://github.com/user-attachments/assets/bc33bf41-c43d-475d-8560-100a64696ab0" />
+<img width="1359" height="656" alt="image" src="https://github.com/user-attachments/assets/0bf16e40-b0a4-44b1-9ef7-181dcc06eb34" />
+
 
 Sales Dashboard Analysis (2019–2020) | Excel Data Analytics Project
 

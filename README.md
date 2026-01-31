@@ -1,4 +1,4 @@
-![Uploading image.png…]()
+<img width="1112" height="582" alt="Column Chart" src="https://github.com/user-attachments/assets/bc33bf41-c43d-475d-8560-100a64696ab0" />
 
 Sales Dashboard Analysis (2019–2020) | Excel Data Analytics Project
 
